@@ -9,7 +9,7 @@ I'm passionate about building scalable applications, solving complex problems, a
 - 💻 **Full-Stack Development**: MERN (MongoDB, Express, React, Node) | TypeScript | Redux | Zustand
 - 🤖 **AI & Generative AI**: Integrating AI-powered features into web applications
 - 📈 **Blockchain**: Smart contracts & decentralized applications (DApps)
-- 🏆 **Competitive Programming**: 400+ LeetCode & 200+ GeeksforGeeks problems solved
+- 🏆 **Programming**: 400+ LeetCode & 200+ GeeksforGeeks problems solved
 
 ## 🏅 Achievements
 

@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Ankush!
 
 > 🚀 **Aspiring Software Engineer | Full-Stack Developer | Generative AI & Blockchain Enthusiast**
-
 I'm passionate about building scalable applications, solving complex problems, and exploring cutting-edge technologies like Generative AI and Blockchain. With a strong foundation in MERN stack development, I've worked on diverse projects from job portals and chat apps to food delivery platforms and AI-powered applications.
 
 ## 💼 What I Do
@@ -86,9 +85,6 @@ I'm passionate about building scalable applications, solving complex problems, a
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankush270&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ankush270&theme=dark&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankush270&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
